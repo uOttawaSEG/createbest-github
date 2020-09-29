@@ -1,5 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ruben
 =======
 Stan
 >>>>>>> 0f874a0109ded8182172d449765336dad42d6317
+=======
+Malick Ndoye 
+Stan
+Yvan Pongang
+Levi Dingui
+>>>>>>> 49778a92b2fd4cb308979c6ad07a70a6c422eb29
